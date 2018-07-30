@@ -1,0 +1,31 @@
+﻿<Window x:Class="GraphColoringDisplay.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GraphColoringDisplay"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="800">
+    <Grid>
+        <Canvas x:Name="myCanvas" HorizontalAlignment="Left" Height="526" Margin="10,33,0,0" VerticalAlignment="Top" Width="772"/>
+        <Menu HorizontalAlignment="Left" Height="24
+              " VerticalAlignment="Top" Width="792">
+            <MenuItem Name="File" Header="File">
+                <MenuItem Header="Generate graph" Click="MenuItem_Click"></MenuItem>
+                <MenuItem Header="Load graph" Click="LoadGraph_Click"></MenuItem>
+                <MenuItem Header="Save graph" Click="SaveGraph_Click"></MenuItem>
+            </MenuItem>
+            <MenuItem Name="Algorithm" Header="Algorithm">
+                <MenuItem Header="Greedy" Click="Greedy_Click"></MenuItem>
+                <MenuItem Header="Genetic" Click="Genetic_Click"></MenuItem>
+                <MenuItem Header="Backtracking" Click="Backtracking_Click"></MenuItem>
+            </MenuItem>
+        </Menu>
+
+        <StatusBar HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="784">
+            <StatusBarItem>
+                <TextBlock Name="lblCursorPosition" />
+            </StatusBarItem>
+        </StatusBar>
+    </Grid>
+</Window>

@@ -1,0 +1,17 @@
+C:\Users\rade\source\repos\GraphColoringDisplay\GraphColoringDisplay\bin\Debug\GraphColoringDisplay.exe.config
+C:\Users\rade\source\repos\GraphColoringDisplay\GraphColoringDisplay\bin\Debug\GraphColoringDisplay.exe
+C:\Users\rade\source\repos\GraphColoringDisplay\GraphColoringDisplay\bin\Debug\GraphColoringDisplay.pdb
+C:\Users\rade\source\repos\GraphColoringDisplay\GraphColoringDisplay\obj\Debug\GraphColoringDisplay.csprojAssemblyReference.cache
+C:\Users\rade\source\repos\GraphColoringDisplay\GraphColoringDisplay\obj\Debug\MainWindow.g.cs
+C:\Users\rade\source\repos\GraphColoringDisplay\GraphColoringDisplay\obj\Debug\App.g.cs
+C:\Users\rade\source\repos\GraphColoringDisplay\GraphColoringDisplay\obj\Debug\GraphColoringDisplay_MarkupCompile.cache
+C:\Users\rade\source\repos\GraphColoringDisplay\GraphColoringDisplay\obj\Debug\GraphColoringDisplay_MarkupCompile.lref
+C:\Users\rade\source\repos\GraphColoringDisplay\GraphColoringDisplay\obj\Debug\MainWindow.baml
+C:\Users\rade\source\repos\GraphColoringDisplay\GraphColoringDisplay\obj\Debug\GraphColoringDisplay.g.resources
+C:\Users\rade\source\repos\GraphColoringDisplay\GraphColoringDisplay\obj\Debug\GraphColoringDisplay.Properties.Resources.resources
+C:\Users\rade\source\repos\GraphColoringDisplay\GraphColoringDisplay\obj\Debug\GraphColoringDisplay.csproj.GenerateResource.cache
+C:\Users\rade\source\repos\GraphColoringDisplay\GraphColoringDisplay\obj\Debug\GraphColoringDisplay.csproj.CoreCompileInputs.cache
+C:\Users\rade\source\repos\GraphColoringDisplay\GraphColoringDisplay\obj\Debug\GraphColoringDisplay.exe
+C:\Users\rade\source\repos\GraphColoringDisplay\GraphColoringDisplay\obj\Debug\GraphColoringDisplay.pdb
+C:\Users\rade\source\repos\GraphColoringDisplay\GraphColoringDisplay\obj\Debug\GenerateGraphWindow.g.cs
+C:\Users\rade\source\repos\GraphColoringDisplay\GraphColoringDisplay\obj\Debug\GenerateGraphWindow.baml
